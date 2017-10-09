@@ -1,4 +1,4 @@
 # Лутфулло Ходжаев
 **Мои домашние задания**
 
-[Урок 12]{ltclaw.github.io/lesson_12}
+[Урок 12](ltclaw.github.io/lesson_12) - Работа с репозиторием на GitHub
