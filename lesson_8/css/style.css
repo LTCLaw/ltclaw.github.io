@@ -1,0 +1,30 @@
+.container {
+	text-align: center;
+}
+
+h1 {
+	font-size: 36px;
+	text-transform: uppercase;
+	color: #333;
+	margin-top: 140px;
+	margin-bottom: 120px;
+}
+
+.box {
+	height: 160px;
+	margin: 20px 10px;
+}
+
+p {
+	color: #333;
+	font-weight: 600;
+	margin-top: 35px;
+}
+
+img {
+	height: 135px;
+}
+
+.bee {
+	margin-left: -10px;
+}
